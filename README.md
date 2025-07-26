@@ -7,18 +7,18 @@ A simple C# console-based Student Management System that supports:
 - Object-oriented design (classes & lists)
 - CRUD operations (Create, Read, Update, Delete)
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open with Visual Studio or any C# compiler
 2. Compile & Run `student_management.cs`
 
-## 📚 Technologies
+##  Technologies
 
 - Language: C#
 - Paradigm: OOP
 - Platform: .NET Console
 
-## 👨‍💻 Author
+##  Author
 
 **Sr Arif**  
 CSE Student, IUBAT  
